@@ -1,4 +1,5 @@
-## 4/24
+# 4/24
+## Word List 1
 | Word | Definition |Pronounce| Example |
 | ---- | ---------- | ------- | ------- |
 |**aboriginal**|adj. 土著的；土生土长的；原始的|[ˌæbəˈridʒənəl]|The aboriginal people of Australia are called Aborigines.|
