@@ -23,5 +23,28 @@
 |**theatrical**|adj. 戏剧的；夸张的；做作的；戏剧性的|[θi'ætrɪkl]|The theatrical performance was very good.|
 |**unravel**|v. 解开；拆散；阐明；解决|[ʌn'rævl]|The mystery was unraveled.|
 
+---
+
+# 4/25
+## Word List 2
+| Word | Definition |Pronounce| Example |
+| ---- | ---------- | ------- | ------- |
+|**aborigine**|n. 原住民；土著人|[ə'bɔridʒin]|The aborigines of Australia are called Aborigines.|
+|**analogous**|adj. 类似的；相似的；类比的|[ə'næləgəs]|The two situations are analogous.|
+|**basal**|adj. 基础的；基本的；基底的|[ˈbeɪsl]|The basal metabolic rate is the rate at which the body burns calories.|
+|**decomposition**|n. 分解；腐烂；腐朽|[di:kəm'pəuʒn]|The decomposition of the body after death.|
+|**deterioration**|n. 恶化；衰退；退化|[di'tiəriə'reiʃn]|The deterioration of the situation.|
+|**domesticate**|v. 使驯服；使适应；使适应人类生活|[də'mestikeit]|The dog was domesticated thousands of years ago.|
+|**intact**|adj. 完整的；未受损伤的；未受影响的|[ɪn'tækt]|The body is intact.|
+|**marshy**|adj. 沼泽的；湿地的；湿润的|[ˈmɑ:ʃi]|The marshy land is full of mosquitoes.|
+|**mythology**|n. 神话；神话学|[ˈmɪθələdʒi]|The mythology of the ancient Greeks is very interesting.|
+|**ooze**|v. 渗出；渗漏；渗透；渗出物|[u:z]|The oil oozes from the pipe.|
+|**percolate**|v. 滤过；渗透；渗入；滤出|[pə'kɔlət]|The water percolates through the soil.|
+|**preliminary**|adj. 初步的；预备的；初级的；初步的；初步的；初步的|[pri'liminəri]|The preliminary examination is very important.|
+|**respiratory**|adj. 呼吸的；呼吸系统的；呼吸道的|[rɪ'spaɪrətəri]|The respiratory system is very important.|
+|**seafarer**|n. 海员；航海家|[ˈsi:fərər]|The seafarer is a sailor.|
+|**sparse**|adj. 稀疏的；稀少的；稀薄的|[spɑ:s]|The forest is sparse.|
+|**subsequent**|adj. 后来的；随后的；后续的|[səb'si:kwənt]|The subsequent events were very important.|
+|**upright**|adj. 垂直的；正直的；端正的；正直的；正直的；正直的|[ʌp'rait]|The upright position is very important.|
 
 
