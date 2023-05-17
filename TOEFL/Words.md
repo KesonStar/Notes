@@ -48,3 +48,29 @@
 |**upright**|adj. 垂直的；正直的；端正的；正直的；正直的；正直的|[ʌp'rait]|The upright position is very important.|
 
 
+---
+
+
+# 5/17
+## Word List 3
+| Word | Definition |Pronounce| Example |
+| ---- | ---------- | ------- | ------- |
+|**abound**|v. 大量存在；充满；富于|[ə'baund]|The fish abound in the lake.|
+|**analogy**|n. 类似；类似物；类比|[ə'nælədʒi]|The analogy between the two situations is very strong.|
+|**bask**|v. 晒太阳；取暖；沐浴于|[bæsk]|The cat basks in the sun.|
+|**decorative**|adj. 装饰性的；装饰的；装饰用的|[ˈdekərətiv]|The decorative pattern is very beautiful.|
+|**detour**|n. 绕行；绕路；迂回路线|[ˈdi:tʊr]|The detour is very long.|
+|**domestication**|n. 驯养；教化；驯化|[dəˌmestə'keiʃn]|The domestication of the dog is very early.|
+|**fishery**|n. 渔场；渔业；渔业；渔场|[ˈfɪʃəri]|The fishery is very rich.|
+|**gist**|n. 要点；要旨；依据|[dʒɪst]|The gist of the matter is very important.|
+|**narration**|n. 叙述；故事；叙述法|[nə'reiʃn]|The narration of the story is very interesting.|
+|**opaque**|adj. 不透明的；不传热的；晦涩的|[əʊ'peɪk]|The glass is opaque.|
+|**percussion**|n. 打击乐器；敲打；冲击|[pə'kʌʃn]|The percussion instrument is very loud.|
+|**premiere**|n. 首次公演；首映；首演|[ˈpremiər]|The premiere of the movie is very successful.|
+|**reflex**|n. 反射；反应；条件反射|[ˈri:flɛks]|The reflex of the body is very fast.|
+|**secrete**|v. 分泌；隐匿；隐藏|[si'kri:t]|The body secretes hormones.|
+|**spearhead**|v. 充当先锋；带头；起带头作用|[ˈspɪəhed]|The spearhead of the army is very brave.|
+|**subside**|v. 下陷；平息；减弱|[səb'said]|The pain subsided.|
+|**thesis**|n. 论文；论点；论题|[ˈθi:sɪs]|The thesis of the paper is very important.|
+|**utilitarian**|adj. 功利的；实用的；实利主义的|[ˌju:tili'teəriən]|The utilitarian theory is very important.|
+
