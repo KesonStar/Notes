@@ -74,3 +74,6 @@
 |**thesis**|n. 论文；论点；论题|[ˈθi:sɪs]|The thesis of the paper is very important.|
 |**utilitarian**|adj. 功利的；实用的；实利主义的|[ˌju:tili'teəriən]|The utilitarian theory is very important.|
 
+# 5/19
+## Word List 4
+
