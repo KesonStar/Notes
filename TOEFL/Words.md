@@ -76,4 +76,23 @@
 
 # 5/19
 ## Word List 4
+| Word | Definition |Pronounce| Example |
+| ---- | ---------- | ------- | ------- |
+|**abrasion**|n. 磨损；擦伤；表面磨损|[ə'breiʒn]|The abrasion of the skin is very painful.|
+|**ancestral**|adj. 祖先的；祖传的；祖先的|[æn'sestrəl]|The ancestral home is very beautiful.|
+|**choosy**|adj. 挑剔的；难取悦的；挑剔的|[ˈtʃu:zi]|The choosy person is very annoying.|
+|**compositional**|adj. 作曲的；构成的；构成的|[ˌkɑ:mpə'ziʃənl]|The compositional structure of the music is very good.|
+|**contiuity**|n. 连续性；连贯性；连续性|[kɑn,tɪnju'ɪti]|The continuity of the story is very good.|
+|**deem**|v. 认为；视作；相信|[di:m]|The judge deems the defendant guilty.|
+|**detract**|v. 贬低；减损；减损|[di'trækt]|The bad behavior detracts from his good character.|
+|**endogenous**|adj. 内生的；内源的；内生的|[en'dɑdʒənəs]|The endogenous growth theory is very important.|
+|**glaze**|v. 上釉于；给…上釉；使光滑|[gleiz]|The glaze of the pottery is very beautiful.|
+|**incur**|v. 招致；遭受；招致|[in'kər]|The company incurred a loss.|
+|**percussive**|adj. 打击的；敲击的；打击的|[pə'kʌsɪv]|The percussive instrument is very loud.|
+|**preposterous**|adj. 荒谬的；可笑的；荒谬的|[pri'pɑstərəs]|The preposterous idea is very funny.|
+|**proximity**|n. 接近；邻近；接近|[prɑk'sɪməti]|The proximity of the two houses is very close.|
+|**refractory**|adj. 耐火的；倔强的；难治的|[ri'fræktəri]|The refractory material is very hard.|
+|**sediment**|n. 沉淀物；沉积物；沉淀物|[ˈsedɪmənt]|The sediment of the river is very thick.|
+|**subsidence**|n. 下沉；下陷；下沉|[səb'saidəns]|The subsidence of the land is very serious.|
+|**utility**|n. 效用；公共设施；效用|[ju:'tiləti]|The utility of the product is very high.|
 
