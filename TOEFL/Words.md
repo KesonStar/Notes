@@ -96,3 +96,47 @@
 |**subsidence**|n. 下沉；下陷|[səb'saidəns]|The subsidence of the land is very serious.|
 |**utility**|n. 效用；公共设施|[ju:'tiləti]|The utility of the product is very high.|
 
+
+# 6/14
+
+## Word List 5
+| Word | Definition |Pronounce| Example |
+| ---- | ---------- | ------- | ------- |
+|**abrasive**|adj. 粗糙的；磨损的；有磨蚀作用的|[ə'breisiv]|The abrasive material is very hard.|
+|**ancestry**|n. 祖先；世系；血统|[ˈænsestri]|The ancestry of the family is very long.|
+|**bemoan**|v. 惋惜；哀叹；为…惋惜|[bi'məun]|The people bemoan the death of the leader.|
+|**chore**|n. 家务；杂事；讨厌的工作|[tʃɔr]|The chore of the house is very heavy.|
+|**detractor**|n. 恶意批评者；贬低者|[di'træktər]|The detractor of the company is very annoying.|
+|**endow**|v. 赋予；捐赠；天生具有|[in'dau]|The company is endowed with a lot of money.|
+|**exhibitor**|n. 展出者；展览者；展示器|[ig'zibitər]|The exhibitor of the exhibition is very famous.|
+|**flake**|n. 薄片；碎片；片|[fleik]|The flake of the snow is very beautiful.|
+|**glide**|v. 滑动；滑行；掠过|[glaid]|The bird glides through the sky.|
+|**integration**|n. 集成；综合；一体化|[ˌɪntɪ'greɪʃn]|The integration of the company is very good.|
+|**perennial**|adj. 多年生的；四季不断的；反复出现的|[pə'reniəl]|The perennial plant is very beautiful.|
+|**prerequisite**|n. 先决条件；前提；必备条件|[pri'rekwəzit]|The prerequisite of the job is very high.|
+|**proxy**|n. 代理人；代理权；委托书|[ˈprɑ:ksi]|The proxy of the company is very powerful.|
+|**refute**|v. 反驳；驳斥；驳倒|[ri'fju:t]|The lawyer refutes the accusation.|
+|**restrain**|v. 抑制；限制；约束|[ri'strein]|The police restrain the criminal.|
+|**sedimentary**|adj. 沉积的；沉淀的|[ˌsedɪ'mentri]|The sedimentary rock is very hard.|
+|**subsist**|v. 生存；维持生命；供养|[səb'sist]|The people subsist on the food.|
+|**utilization**|n. 利用；使用；应用|[ˌju:tilai'zeiʃən]|The utilization of the resource is very high.|
+
+## Word List 6
+| Word | Definition |Pronounce| Example |
+| ---- | ---------- | ------- | ------- |
+|**absorption**|n. 吸收；专注；全神贯注|[əb'sɔ:pʃən]|The absorption of the material is very high.|
+|**animate**|adj. 有生命的；活的；栩栩如生的|[ˈænɪmeɪt]|The animate object is very interesting.|
+|**chronological**|adj. 按年代顺序排列的；按时间顺序的|[ˌkrɑnə'lɑdʒɪkl]|The chronological order of the event is very clear.|
+|**contour**|n. 轮廓；等高线；外形|[ˈkɑntʊr]|The contour of the mountain is very beautiful.|
+|**devastate**|v. 毁坏；摧毁；使震惊|[ˈdɛvəˌstet]|The earthquake devastates the city.|
+|**exogenous**|adj. 外生的；外源的|[eg'zɑdʒənəs]|The exogenous growth theory is very important.|
+|**flaw**|n. 缺点；裂纹；瑕疵|[flɔ]|The flaw of the plan is very serious.|
+|**glimpse**|n. 一瞥；一看；一闪|[glimps]|The glimpse of the future is very bright.|
+|**judicial**|adj. 司法的；法庭的；审判的|[dʒu:'diʃəl]|The judicial system of the country is very good.|
+|**mast**|n. 桅杆；旗杆；杆|[mæst]|The mast of the ship is very tall.|
+|**nasal**|adj. 鼻的；鼻音的；鼻音节的|[ˈneɪzəl]|The nasal sound is very loud.|
+|**opportunistic**|adj. 机会主义的；投机取巧的|[ˌɑpərˌtunɪˈstɪk]|The opportunistic behavior is very bad.|
+|**periodic**|adj. 周期的；定期的；偶尔发生的|[ˌpɪri'ɑdɪk]|The periodic table is very important.|
+|**psychodynamic**|adj. 心理动力学的；心理动力的|[ˌsaɪkoʊdaɪˈnæmɪk]|The psychodynamic theory is very important.|
+|**regiment**|n. 团；一大群；一大队|[ˈrɛdʒəmənt]|The regiment of the army is very strong.|
+|**thrust**|v. 推力；刺；插入|[θrʌst]|The thrust of the engine is very strong.|
