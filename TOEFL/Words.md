@@ -74,6 +74,7 @@
 |**thesis**|n. 论文；论点；论题|[ˈθi:sɪs]|The thesis of the paper is very important.|
 |**utilitarian**|adj. 功利的；实用的；实利主义的|[ˌju:tili'teəriən]|The utilitarian theory is very important.|
 
+---
 # 5/19
 ## Word List 4
 | Word | Definition |Pronounce| Example |
@@ -96,6 +97,8 @@
 |**subsidence**|n. 下沉；下陷|[səb'saidəns]|The subsidence of the land is very serious.|
 |**utility**|n. 效用；公共设施|[ju:'tiləti]|The utility of the product is very high.|
 
+
+---
 
 # 6/14
 
@@ -140,3 +143,48 @@
 |**psychodynamic**|adj. 心理动力学的；心理动力的|[ˌsaɪkoʊdaɪˈnæmɪk]|The psychodynamic theory is very important.|
 |**regiment**|n. 团；一大群；一大队|[ˈrɛdʒəmənt]|The regiment of the army is very strong.|
 |**thrust**|v. 推力；刺；插入|[θrʌst]|The thrust of the engine is very strong.|
+
+---
+
+# 6/15
+## Word List 7
+| Word | Definition |Pronounce| Example |
+| ---- | ---------- | ------- | ------- |
+|**abstraction**|n. 抽象；抽象物；心不在焉|[æb'strækʃən]|The abstraction of the theory is very high.|
+|**anomaly**|n. 异常；反常；不规则|[ə'nɑməli]|The anomaly of the data is very high.|
+|**circular**|adj. 圆形的；循环的；环形的|[ˈsɜrkjələr]|The circular motion is very interesting.|
+|**comprehensible**|adj. 可理解的；可了解的|[ˌkɑmprɪ'hɛnsəbl]|The theory is comprehensible.|
+|**devastation**|n. 毁坏；荒废；破坏|[ˌdɛvəˈsteɪʃən]|The devastation of the city is very serious.|
+|**dormancy**|n. 休眠；冬眠；隐匿|[ˈdɔrmənsi]|The dormancy of the animal is very long.|
+|**enforce**|v. 实施；执行；强制|[in'fɔrs]|The police enforce the law.|
+|**exotic**|adj. 异国的；外来的；异国情调的|[ig'zɑtik]|The exotic animal is very interesting.|
+|**junction**|n. 连接；接合；交叉点|[ˈdʒʌŋkʃən]|The junction of the road is very busy.|
+|**mate**|n. 伙伴；配偶；配对物|[met]|The mate of the animal is very beautiful.|
+|**naturalistic**|adj. 自然主义的；自然论的|[ˌnætʃə'rəlɪstɪk]|The naturalistic theory is very important.|
+|**periodical**|adj. 定期的；周期的；偶尔发生的|[ˌpɪri'ɑdɪkl]|The periodical table is very important.|
+|**seep**|v. 渗出；渗漏；渗透|[sip]|The water seeps into the ground.|
+|**substantial**|adj. 大量的；实质的；坚固的|[səb'stænʃəl]|The substantial amount of the money is very high.|
+|**tidal**|adj. 潮汐的；有潮的；潮流的|[ˈtaɪdl]|The tidal wave is very high.|
+|**utter**|v. 说；发出；发表|[ˈʌtər]|The utter of the people is very loud.|
+
+
+## Word List 8
+| Word | Definition |Pronounce| Example |
+| ---- | ---------- | ------- | ------- |
+|**abundance**|n. 丰富；充裕；大量|[ə'bʌndəns]|The abundance of the food is very high.|
+|**antagonism**|n. 敌对；对抗；敌意|[æn'tægənɪzəm]|The antagonism of the people is very high.|
+|**biotic**|adj. 生物的；生物学的|[baɪ'ɑtɪk]|The biotic factor is very important.|
+|**circulation**|n. 循环；流通；发行量|[ˌsɜrkjə'leʃən]|The circulation of the blood is very important.|
+|**deficiency**|n. 缺乏；缺点；不足|[dɪ'fɪʃənsi]|The deficiency of the food is very serious.|
+|**deviate**|v. 偏离；背离；违背|[ˈdiviˌet]|The deviate of the plan is very serious.|
+|**dormant**|adj. 休眠的；冬眠的；隐匿的|[ˈdɔrmənt]|The dormant of the animal is very long.|
+|**flicker**|v. 闪烁；摇曳；忽隐忽现|[ˈflɪkər]|The flicker of the light is very bright.|
+|**indicator**|n. 指示器；指示剂；指示物|[ˈɪndəˌketər]|The indicator of the plan is very important.|
+|**navigable**|adj. 可航行的；可通航的|[ˈnævəgəbəl]|The navigable of the river is very wide.|
+|**optic**|adj. 视觉的；光学的；眼睛的|[ˈɑptɪk]|The optic of the animal is very good.|
+|**perish**|v. 死亡；毁灭；枯萎|[ˈpɛrɪʃ]|The perish of the animal is very serious.|
+|**resume**|v. 恢复；重新开始；重新占用|[rɪ'zum]|The resume of the work is very important.|
+|**segment**|n. 部分；片段；段|[ˈsɛgmənt]|The segment of the work is very important.|
+|**specimen**|n. 样本；标本；样品|[ˈspɛsəmən]|The specimen of the animal is very important.|
+|**substantiate**|v. 证实；使实体化；使具体化|[səb'stænʃɪet]|The substantiate of the theory is very important.|
+|**tilt**|v. 倾斜；翘起；抬起|[tɪlt]|The tilt of the table is very serious.|
