@@ -188,3 +188,49 @@
 |**specimen**|n. 样本；标本；样品|[ˈspɛsəmən]|The specimen of the animal is very important.|
 |**substantiate**|v. 证实；使实体化；使具体化|[səb'stænʃɪet]|The substantiate of the theory is very important.|
 |**tilt**|v. 倾斜；翘起；抬起|[tɪlt]|The tilt of the table is very serious.|
+
+---
+
+# 6/16
+## Word List 9
+| Word | Definition |Pronounce| Example |
+| ---- | ---------- | ------- | ------- |
+|**antecedent**|adj. 先行的；前面的；在前的|[ˌæntə'si:dnt]|The antecedent of the theory is very important.|
+|**bladder**|n. 膀胱；囊状物；气囊|[ˈblædər]|The bladder of the animal is very important.|
+|**circumstance**|n. 情况；环境；境遇|[ˈsɜrkəmˌstæns]|The circumstance of the event is very important.|
+|**compress**|v. 压缩；压紧；浓缩|[kəmˈprɛs]|The compress of the theory is very important.|
+|**deficient**|adj. 缺乏的；不足的；有缺陷的|[dɪ'fɪʃənt]|The deficient of the food is very serious.|
+|**deviation**|n. 偏离；背离；偏差|[ˌdiviˈeɪʃən]|The deviation of the plan is very serious.|
+|**engender**|v. 产生；引起；使发生|[ɪnˈdʒɛndər]|The engender of the theory is very important.|
+|**grandiose**|adj. 宏伟的；堂皇的；浮夸的|[ˈgrændiˌoʊs]|The grandiose of the building is very beautiful.|
+|**indigenous**|adj. 本土的；土著的；国产的|[ɪnˈdɪdʒənəs]|The indigenous of the animal is very important.|
+|**immature**|adj. 不成熟的；未完全发展的|[ˌɪməˈtʃʊr]|The immature of the animal is very serious.|
+|**knap**|n. 小丘；小山；矮山|[næp]|The knap of the mountain is very high.|
+|**optical**|adj. 光学的；视觉的；眼睛的|[ˈɑptɪkəl]|The optical of the animal is very good.|
+|**presidency**|n. 总统职位；总统任期；总统职权|[ˈprɛzədənsi]|The presidency of the country is very important.|
+|**purify**|v. 净化；提纯；使纯洁|[ˈpjʊrəˌfaɪ]|The purify of the water is very important.|
+|**retail**|n. 零售；零售业；零售价格|[ˈriteɪl]|The retail of the goods is very high.|
+|**spectacle**|n. 奇观；景象；场面|[ˈspɛktəkəl]|The spectacle of the event is very beautiful.|
+|**substantive**|adj. 实质的；独立存在的；大量的|[ˈsʌbstəntɪv]|The substantive of the theory is very important.|
+|**timber**|n. 木材；木料；木头|[ˈtɪmbər]|The timber of the tree is very high.|
+|**toddler**|n. 学步的小孩；蹒跚行走的人|[ˈtɑdlər]|The toddler of the child is very lovely.|
+|**vacuum**|n. 真空；真空吸尘器；空白|[ˈvækjuəm]|The vacuum of the space is very large.|
+
+## Word List 10
+| Word | Definition |Pronounce| Example |
+| ---- | ---------- | ------- | ------- |
+|**blast**|n. 爆炸；冲击波；一阵；猛烈的批评|[bla:st]|The blast of the bomb is very serious.|
+|**circumstantial**|adj. 详细的；依照情况的；描述详细的|[ˌsɜrkəmˈstænʃəl]|The circumstantial of the event is very important.|
+|**compression**|n. 压缩；压紧；浓缩|[kəmˈprɛʃən]|The compression of the theory is very important.|
+|**engrave**|v. 雕刻；铭记；牢记|[ɪnˈɡrev]|The engrave of the stone is very beautiful.|
+|**expedition**|n. 远征；探险队；迅速|[ˌɛkspəˈdɪʃən]|The expedition of the army is very serious.|
+|**fluctuate**|v. 波动；变动；动摇|[ˈflʌktʃuet]|The fluctuate of the price is very serious.|
+|**immaturity**|n. 不成熟；未完全发展|[ˌɪməˈtʃʊrəti]|The immaturity of the animal is very serious.|
+|**indigestible**|adj. 难消化的；不易消化的|[ˌɪndɪˈdʒɛstəbəl]|The indigestible of the food is very serious.|
+|**permeable**|adj. 可渗透的；可透过的|[ˈpɜrmɪəbəl]|The permeable of the material is very important.|
+|**prestige**|n. 威望；声望；声誉|[prɛˈstiʒ]|The prestige of the company is very important.|
+|**rehearsal**|n. 排练；预演；复述|[rɪˈhɜrsəl]|The rehearsal of the event is very important.|
+|**retain**|v. 保持；保留；记住|[rɪˈten]|The retain of the memory is very important.|
+|**semiarid**|adj. 半干旱的|[ˌsɛmiˈɛrɪd]|The semiarid of the area is very serious.|
+|**validate**|v. 使生效；证实；确认|[ˈvæləˌdet]|The validate of the theory is very important.|
+
