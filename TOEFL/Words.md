@@ -234,3 +234,56 @@
 |**semiarid**|adj. 半干旱的|[ˌsɛmiˈɛrɪd]|The semiarid of the area is very serious.|
 |**validate**|v. 使生效；证实；确认|[ˈvæləˌdet]|The validate of the theory is very important.|
 
+
+---
+# 6/19
+## Word List 13
+| Word | Definition |Pronounce| Example |
+| ---- | ---------- | ------- | ------- |
+|**appall**|v. 使惊骇；使胆寒|[əˈpɔl]|The appall of the event is very serious.|
+|**blend**|n. 混合；混合物；混合物|[blɛnd]|The blend of the material is very important.|
+|**clamor**|n. 喧闹；吵闹；喧嚷|[ˈklæmər]|The clamor of the people is very serious.|
+|**converse**|v. 交谈；n. 谈话|[kənˈvɜrs]|The students converse with each other in English.|
+|**definitive**|adj. 最后的；决定性的；明确的|[dɪˈfɪnətɪv]|The definitive of the theory is very important.|
+|**drastic**|adj. 激烈的；猛烈的；严厉的|[ˈdræstɪk]|The drastic of the event is very serious.|
+|**expertise**|n. 专门技术；专门知识|[ˌɛkspərˈtiz]|The expertise of the people is very important.|
+|**fluidity**|n. 流动性；流畅性|[fluˈɪdəti]|The fluidity of the material is very important.|
+|**grid**|n. 网格；格子；电网|[ɡrɪd]|The grid of the city is very important.|
+|**immense**|adj. 巨大的；广大的；无边无际的|[ɪˈmɛns]|The immense of the area is very large.|
+|**intently**|adv. 专心地；一心一意地|[ɪnˈtɛntli]|The intently of the people is very important.|
+|**measurement**|n. 测量法；尺寸；度量|[ˈmɛʒərmənt]|The measurement of the area is very important.|
+|**necessitate**|v. 使成为必要；迫使|[nəˈsɛsəˌtet]|The necessitate of the event is very serious.|
+|**orient**|n. 东方；v. 使朝向|[ˈɔriənt]|The orient of the country is very important.|
+|**perplex**|v. 使困惑；使复杂化|[pərˈplɛks]|The perplex of the event is very serious.|
+|**query**|n. 疑问；质问；v. 询问|[ˈkwɪri]|The query of the people is very important.|
+|**retreat**|n. 撤退；退却；v. 撤退|[rɪˈtrit]|The retreat of the army is very serious.|
+|**senate**|n. 参议院；上院|[ˈsɛnɪt]|The senate of the country is very important.|
+|**succession**|n. 连续；继承；继任|[səkˈsɛʃən]|The succession of the event is very important.|
+|**toss**|v. 投掷；摇荡；辗转；n. 投掷；摇荡|[tɔs]|The toss of the event is very important.|
+
+## Word List 14
+| Word | Definition |Pronounce| Example |
+| ---- | ---------- | ------- | ------- |
+|**accord**|n. 一致；符合；v. 使一致；给予|[əˈkɔrd]|The accord of the event is very important.|
+|**apparatus**|n. 器械；仪器；机构|[ˌæpəˈretəs]|The apparatus of the machine is very important.|
+|**blockage**|n. 障碍；阻塞；封锁|[ˈblɔkɪdʒ]|The blockage of the road is very serious.|
+|**clan**|n. 氏族；宗族；家族|[klæn]|The clan of the people is very important.|
+|**conceivable**|adj. 可想到的；可相信的；可想像的|[kənˈsivəbəl]|The conceivable of the event is very important.|
+|**conversion**|n. 转变；转化；转换|[kənˈvɜrʒən]|The concersion of the event is very important.|
+|**deflect**|v. 使偏斜；使转向；使转移|[dɪˈflɛkt]|The deflect of the event is very important.|
+|**dictate**|v. 口述；命令；支配；n. 命令；指令|[ˈdɪkteɪt]|The dictate of the people is very important.|
+|**expire**|v. 到期；期满；死亡|[ɪkˈspaɪr]|His term of office expires at the end of June.|
+|**flush**|v. 冲洗；脸红；n. 脸红；奔流；adj. 齐平的|[flʌʃ]|The flush of the event is very serious.|
+|**grind**|n. 磨损；折磨；苦差事|[graind]|This machine grinds out the crushed rock ready for road building.|
+|**immensity**|n. 巨大；广大；无限|[ɪˈmɛnsəti]|the immensity of the universe|
+|**languish**|v. 变得衰弱；失去活力；渴望|[ˈlæŋgwɪʃ]|She continues to languish in a foreign prison.|
+|**prevail**|v. 流行；盛行；战胜；说服|[prɪˈvel]|The custom still prevails in some parts of the country.|
+|**quiver**|v. 颤抖；抖动；n. 颤抖；箭袋|[ˈkwɪvər]|His lips quivered with anger.|
+|**relevance**|n. 相关性；适当性|[ˈrɛləvəns]Politicians' private lives have no relevance to their public roles.|
+|**sensation**|n. 感觉；轰动；感动；感觉器官|[sɛnˈseʃən]|The news caused a sensation.|
+|**retrieval**|n. 取回；恢复；检索|[rɪˈtrivəl]|The retrieval of the data is very important.|
+|**speculate**|v. 推测；投机；思索|[ˈspɛkjəˌlet]|I don't want to speculate about what might happen.|
+|**successional**|adj. 连续的；继承的|[səkˈsɛʃənl]|Study on pattern and successional trend of vegetation in Qinghai Lake Region.|
+|**variability**|n. 变化性；可变性|[ˌvɛəriəˈbɪləti]|The variability of the event is very important.|
+
+
